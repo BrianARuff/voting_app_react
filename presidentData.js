@@ -1,0 +1,47 @@
+window._presidentData = [
+    {
+        name: 'George Washington',
+        startDate: 'April 30, 1789',
+        endDate: 'March 4, 1797',
+        vicePresident: ['John Adams'],
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/440px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg',
+        votes: '0',
+        id: '1',
+    },
+    {
+        name: 'John Adams',
+        startDate: 'March 4, 1797',
+        endDate: 'March 4, 1801',
+        vicePresident: ['Thomas Jefferson'],
+        image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Johnadamsvp.flipped.jpg',
+        votes: '0',
+        id: '2',
+    },
+    {
+        name: 'Thomas Jefferson',
+        startDate: 'March 4, 1801',
+        endDate: 'March 4, 1809',
+        vicePresident: ['Aaron Burr(1801-1805), George Clinton(1805-1809)'],
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/440px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg',
+        votes: '0',
+        id: '3',
+    },
+    {
+        name: 'James Madison',
+        startDate: 'March 4, 1809',
+        endDate: 'March 4, 1817',
+        vicePresident: ['George Clinton(1809-1812)', 'Elbridge Gerry(1813-1814)'],
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/440px-James_Madison.jpg',
+        votes: '0',
+        id: '4',
+    },
+    {
+        name: 'James Monroe',
+        startDate: 'March 4, 1817',
+        endDate: 'March 4, 1817',
+        vicePresident: ['Daniel D. Tompkins'],
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/James_Monroe_White_House_portrait_1819.gif/440px-James_Monroe_White_House_portrait_1819.gif',
+        votes: '0',
+        id: '5',
+    }
+]

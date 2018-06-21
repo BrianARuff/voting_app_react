@@ -1,8 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import './index.css';
+import '../presidentData';
+import PresidentList from '../src/components/PresidentList';
 
-const Index = () => {
-  return <div>Hello React!</div>;
-};
-
-ReactDOM.render(<Index />, document.getElementById("index"));
+ReactDOM.render(<PresidentList presidentData={_presidentData}/>, document.getElementById("index"));
