@@ -1,3 +1,5 @@
+The purpose of this app is to demonstrate a voting application using React.
+
 In order to use this, please run the following command.
 
         npm install
